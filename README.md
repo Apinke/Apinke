@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Apinke
 - 👀 I’m interested in solving problems with technology particularly social problems
-- 🌱 I’m currently learning Cloud Computing on AWS,GCP .I am also using python and linux 
+- 🌱 I’m into Cloud Security but a lifelong learner.
 - 💞️ I’m looking to collaborate on projects that solve endemic issues and those focused on Sustainable Development Goals
 - 📫 How to reach me on twitter @gbemiesho
 
